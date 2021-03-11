@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi Mensajeria</string>
+    <string name="hint">Send Message</string>
+    <string name="send">enter a message</string>
+</resources>
